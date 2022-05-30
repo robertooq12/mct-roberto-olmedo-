@@ -1,0 +1,5 @@
+print ("hola profe")
+print ("soy Roberto Olmedo Quintero")
+print ("me gustan los video juegos y escuchar musica en la noche")
+print (" voy en noveno D")
+print (" el profesor nos amenza con subir un tik tok con nostros en su cuentande coleccionista")
